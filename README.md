@@ -1,4 +1,4 @@
-###🤖 Multi-Platform GitHub Repo Auto Poster
+🤖 Multi-Platform GitHub Repo Auto Poster
 
 Telegram + Discord | Powered by Python
 
